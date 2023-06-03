@@ -8,7 +8,7 @@ In it, I learned how to use HTML and CSS for the first time, as well as brush up
 
 # Installation
 
-The application cannot be installed but accessed via the html hyperlink
+The application cannot be installed but accessed via the index.html URL file:///C:/Users/Owner/GitHub/Prework-Study-Guide/index.html
 
 ## Usage
 
